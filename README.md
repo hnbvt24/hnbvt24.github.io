@@ -7,5 +7,4 @@ The "Coffee Taste Preferences Analysis" Python code project explores coffee drin
 By understanding customer preferences and behaviors, businesses can optimize their strategies, improve product-market fit, and enhance customer satisfaction through personalized experiences and campaigns. This analysis has practical applications for businesses, enabling them to predict customer behavior, create targeted marketing campaigns, and enhance product offerings based on segmented experiences.
 
 ## Reference:
-The Great American Coffee Taste
-[The Great American Coffee Taste]([https://covid.cdc.gov/covid-data-tracker/#maps_percent-covid-deaths](https://cometeer.com/pages/the-great-american-coffee-taste-test)https://cometeer.com/pages/the-great-american-coffee-taste-test).
+[The Great American Coffee Taste](https://cometeer.com/pages/the-great-american-coffee-taste-test)
